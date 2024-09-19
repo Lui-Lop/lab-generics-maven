@@ -10,7 +10,8 @@ import java.io.PrintWriter;
  * A simple set of experiments with predicates and searching.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author A.J. Trimble
+ * @author  Luis Lopez
  */
 public class SearchExperiments {
   /**
